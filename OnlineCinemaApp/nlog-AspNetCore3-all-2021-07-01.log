@@ -1,0 +1,412 @@
+2021-07-01 11:36:18.9109|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 11:36:22.9140|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 11:36:22.9414|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 11:36:22.9414|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 11:36:29.5720|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 11:36:34.3011|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 11:36:38.5471|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 11:36:40.3316|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 11:40:13.6992|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 11:40:15.7308|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 11:40:15.7308|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 11:40:15.7403|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 11:42:51.6330|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 11:42:53.6866|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 11:42:53.6898|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 11:42:53.6898|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 11:43:40.6535|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 11:43:42.9861|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 11:43:42.9861|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 11:43:42.9861|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 11:46:12.1336|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 11:46:14.4535|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 11:46:14.4535|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 11:46:14.4535|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 11:51:17.7048|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 11:51:20.2202|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 11:51:20.2202|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 11:51:20.2202|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 11:52:02.1088|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 11:52:04.6411|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 11:52:04.6411|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 11:52:04.6411|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 11:53:58.2568|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 11:54:00.6921|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 11:54:00.6921|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 11:54:00.6921|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 12:06:30.2059|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 12:06:33.0842|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 12:06:33.0842|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 12:06:33.0950|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 12:07:46.8213|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 12:07:48.9449|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 12:07:48.9449|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 12:07:48.9546|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 12:35:58.0562|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 12:36:00.4071|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 12:36:00.4071|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 12:36:00.4071|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 12:38:17.2213|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 12:38:19.6236|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 12:38:19.6287|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 12:38:19.6287|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 12:43:24.0237|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 12:43:26.3033|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 12:43:26.3033|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 12:43:26.3135|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 12:43:55.3896|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 12:43:57.8251|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 12:43:57.8279|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 12:43:57.8279|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 12:47:52.9164|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 12:47:55.0712|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 12:47:55.0712|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 12:47:55.0808|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 12:49:34.9820|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 12:49:37.2998|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 12:49:37.2998|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 12:49:37.2998|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 12:56:16.9851|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 12:56:19.3039|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 12:56:19.3039|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 12:56:19.3135|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 12:57:42.5247|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 12:57:44.9010|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 12:57:44.9010|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 12:57:44.9128|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 13:20:33.2261|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 13:20:35.6834|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 13:20:35.6834|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 13:20:35.6946|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 13:38:03.4324|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 13:38:05.6863|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 13:38:05.6891|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 13:38:05.6891|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 13:57:44.2091|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 13:57:47.2622|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 13:57:47.2622|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 13:57:47.2720|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 14:12:21.6876|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 14:12:24.0356|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 14:12:24.0356|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 14:12:24.0542|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 14:13:20.9312|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 14:17:51.7788|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 14:17:54.4451|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 14:17:54.4451|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 14:17:54.4554|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 14:19:35.1780|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 14:19:37.6262|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 14:19:37.6262|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 14:19:37.6262|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 14:21:44.1888|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 14:21:45.8754|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 14:21:47.6714|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 14:21:47.7328|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 14:21:47.7753|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 16:09:12.5726|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 16:09:15.1434|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 16:09:15.1702|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 16:09:15.1776|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 16:09:31.3812|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 16:10:16.1477|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 16:10:18.4100|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 16:10:18.4100|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 16:10:18.4100|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 16:10:28.1708|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 16:10:55.4518|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 16:10:57.9122|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 16:10:57.9264|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 16:10:57.9264|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 16:11:02.4611|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 16:11:18.8254|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 16:11:27.6853|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 16:26:22.3150|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 16:26:26.4705|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 16:26:26.4705|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 16:26:26.4705|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 16:28:21.7583|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 16:28:24.5683|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 16:28:24.5683|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 16:28:24.5785|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 16:41:17.5797|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 16:41:19.9613|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 16:41:19.9613|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 16:41:19.9706|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 19:14:14.3506|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 19:14:17.2726|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 19:14:17.2962|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 19:14:17.3031|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 19:14:23.4748|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:14:26.2445|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:14:32.4796|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:15:11.8248|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 19:15:14.0126|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 19:15:14.0126|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 19:15:14.0229|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 19:15:18.8355|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:15:21.1199|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:15:27.2682|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:31:21.9034|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 19:31:49.5264|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (11ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+ALTER TABLE [ProductInShoppingCarts] ADD CONSTRAINT [FK_ProductInShoppingCarts_Products_ProductId] FOREIGN KEY ([ProductId]) REFERENCES [Products] ([Id]) ON DELETE CASCADE; 
+2021-07-01 19:35:06.1327|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 19:35:09.0606|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 19:35:09.0638|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 19:35:09.0638|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 19:35:13.6909|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:35:25.6995|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:35:27.8641|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:35:29.1962|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:35:29.2143|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 19:35:29.2326|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:37:28.5812|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 19:37:31.5083|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 19:37:31.5083|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 19:37:31.5197|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 19:37:59.0046|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 19:38:01.6208|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 19:38:01.6208|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 19:38:01.6305|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 19:41:45.5699|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 19:41:48.3540|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 19:41:48.3540|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 19:41:48.3642|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 19:41:52.4776|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:43:00.1371|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 19:43:03.0195|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 19:43:03.0195|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 19:43:03.0195|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 19:43:48.4878|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 19:44:09.0974|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 19:44:12.1117|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 19:44:12.1117|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 19:44:12.1117|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 19:44:53.2635|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 19:44:56.2192|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 19:44:56.2192|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 19:44:56.2398|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 19:46:00.4437|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 19:46:03.1674|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 19:46:03.1674|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 19:46:03.1777|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 19:48:11.2196|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 19:48:13.7691|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 19:48:13.7691|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 19:48:13.7691|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 19:51:31.6124|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:51:33.1009|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:51:34.3124|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:51:34.3770|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 19:51:34.3770|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:53:13.7434|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:53:15.7639|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:53:17.0122|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:53:17.0188|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 19:53:17.0188|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:53:43.7802|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:53:45.4828|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:53:47.8037|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:53:47.8125|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 19:53:47.8125|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:54:16.0634|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:54:17.4240|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:54:18.9187|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:54:18.9242|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 19:54:18.9242|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:54:20.8944|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:54:21.7026|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:54:21.7091|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 19:54:21.7091|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:54:22.3637|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:54:23.2625|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:54:23.2664|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 19:54:23.2664|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:55:50.2615|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 19:55:52.6763|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 19:55:52.6763|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 19:55:52.6899|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 19:56:10.2267|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:56:12.0985|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:56:14.0971|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:56:16.5956|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:56:16.6370|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 19:56:16.6634|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:56:22.2184|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:56:24.8651|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:56:24.8651|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 19:56:24.8969|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:57:36.2614|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 19:57:38.8250|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 19:57:38.8285|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 19:57:38.8285|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 19:57:42.2938|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:57:59.0331|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 19:58:01.6991|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:58:02.6004|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 19:58:02.7930|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 19:58:02.8247|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:00:48.1033|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:00:49.4594|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:00:51.7720|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:00:51.7720|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 20:00:51.8068|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:19:39.0850|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 20:19:41.6809|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 20:19:41.6809|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 20:19:41.6905|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 20:19:49.4398|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:19:50.6975|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:19:57.2978|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:19:57.4573|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 20:19:57.5009|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:20:52.1951|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:20:53.6928|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:20:56.8425|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:20:56.8509|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 20:20:56.8789|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:23:29.6485|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:23:30.9904|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:23:38.1130|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:23:40.6434|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:23:40.6434|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 20:23:40.6766|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:23:42.6819|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:23:45.4175|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:23:45.4333|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 20:23:45.4623|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:28:00.9616|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:29:23.0758|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 20:29:25.2548|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 20:29:25.2548|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 20:29:25.2548|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 20:29:47.4619|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:31:05.0650|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 20:31:07.5701|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 20:31:07.5701|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 20:31:07.5802|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 20:31:14.5442|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:31:33.5264|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-07-01 20:31:33.8303|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:31:38.1202|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:31:42.4193|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A ticket was edited and updated 
+2021-07-01 20:31:42.4584|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:31:43.6952|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:31:47.2691|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:31:47.3119|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 20:31:47.3397|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:31:52.2903|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:31:53.1235|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:31:55.9325|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:31:55.9403|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 20:31:55.9738|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:33:02.6155|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-07-01 20:33:02.6477|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:33:18.5422|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-07-01 20:33:18.5735|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:33:20.2766|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:33:21.6961|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:33:23.9900|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:33:24.9820|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|DeleteProduct was called 
+2021-07-01 20:33:24.9820|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:33:25.0293|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:33:27.7082|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:33:28.5620|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:33:30.2160|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 20:33:30.2238|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-01 20:33:30.2521|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 20:34:31.4113|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.IO.IOException: The process cannot access the file 'E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\files\users.xlsx' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.IO.File.Create(String path)
+   at OnlineCinemaApp.Controllers.UserController.ImportUsers(IFormFile file) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\Controllers\UserController.cs:line 26
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-07-01 20:36:05.4846|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 20:36:08.1620|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 20:36:08.1620|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 20:36:08.1721|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 20:40:34.2559|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 20:40:37.0010|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 20:40:37.0010|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 20:40:37.0010|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 20:47:42.7988|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 20:47:45.0385|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 20:47:45.0385|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 20:47:45.0484|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 22:00:23.2498|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 22:00:25.9624|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 22:00:25.9868|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 22:00:25.9868|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 22:00:31.8023|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 22:02:38.7631|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 22:02:41.2142|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 22:02:41.2142|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 22:02:41.2240|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 22:02:43.7967|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 22:03:01.7017|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 22:03:02.7707|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 22:03:11.4463|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 22:03:13.7895|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 22:03:13.7895|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 22:03:13.7994|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 22:03:16.4526|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 22:38:18.5554|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 22:38:21.1865|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 22:38:21.1894|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 22:38:21.1894|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 22:38:27.1723|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 22:38:29.1783|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 22:54:44.4796|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 22:54:47.0464|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 22:54:47.0592|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 22:54:47.0655|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 22:54:50.6242|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 22:55:45.8465|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 23:07:25.2119|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 23:07:27.9510|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 23:07:27.9537|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 23:07:27.9537|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 23:07:30.8023|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 23:17:23.7899|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 23:17:26.2624|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 23:17:26.2624|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 23:17:26.2732|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 23:17:32.6375|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 23:50:23.2922|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 23:50:26.4608|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 23:50:26.4608|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 23:50:26.4707|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 23:50:35.5546|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 23:52:14.1555|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-01 23:52:16.5959|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-01 23:52:16.5959|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-01 23:52:16.5959|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-01 23:52:19.7947|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 23:52:21.9084|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 23:52:41.4491|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-07-01 23:52:41.6695|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 23:52:42.9154|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-01 23:52:48.8919|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 23:52:50.2201|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|DeleteProduct was called 
+2021-07-01 23:52:50.2201|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-01 23:52:50.2842|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 

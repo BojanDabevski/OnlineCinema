@@ -1,0 +1,174 @@
+2021-07-03 18:10:29.7121|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-03 18:10:36.1043|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-03 18:10:36.1185|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-03 18:10:36.1185|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-03 18:11:19.2778|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-03 18:11:24.3502|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-03 18:11:24.3533|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-03 18:11:24.3533|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-03 18:11:59.8539|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 18:12:05.4857|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 18:14:13.3470|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-03 18:14:27.3779|20004|ERROR|Microsoft.EntityFrameworkCore.Database.Connection|An error occurred using the connection to database 'ShopCinema' on server '(localdb)\mssqllocaldb'. 
+2021-07-03 18:14:27.4789|10100|ERROR|Microsoft.EntityFrameworkCore.Query|An exception occurred while iterating over the results of a query for context type 'OnlineCinemaApp.Repository.ApplicationDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open database "ShopCinema" requested by the login. The login failed.
+Login failed for user 'DESKTOP-K7QBDUV\Astra'.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:decd624a-2b39-42f7-9a1e-2b35d3793fe0
+Error Number:4060,State:1,Class:11 Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open database "ShopCinema" requested by the login. The login failed.
+Login failed for user 'DESKTOP-K7QBDUV\Astra'.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:decd624a-2b39-42f7-9a1e-2b35d3793fe0
+Error Number:4060,State:1,Class:11
+2021-07-03 18:14:27.7692|0|ERROR|OnlineCinemaApp.Program|Stopped program because of exception Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open database "ShopCinema" requested by the login. The login failed.
+Login failed for user 'DESKTOP-K7QBDUV\Astra'.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.ToList()
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at OnlineCinemaApp.Services.Implementation.BackgroundEmailSender.DoWork() in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\Implementation\BackgroundEmailSender.cs:line 23
+   at OnlineCinemaApp.Services.ConsumeScopedHostedService.DoWork() in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\ConsumeScopedHostedService.cs:line 35
+   at OnlineCinemaApp.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\ConsumeScopedHostedService.cs:line 22
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at OnlineCinemaApp.Program.Main(String[] args) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\Program.cs:line 21
+ClientConnectionId:decd624a-2b39-42f7-9a1e-2b35d3793fe0
+Error Number:4060,State:1,Class:11
+2021-07-03 18:15:54.7210|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-03 18:15:59.7210|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-03 18:15:59.7333|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-03 18:15:59.7333|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-03 18:16:09.7252|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-03 18:16:14.0689|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-03 18:16:14.0735|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-03 18:16:14.0735|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-03 18:16:51.1996|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-03 18:16:56.5076|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-03 18:16:56.5125|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-03 18:16:56.5264|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-03 18:17:14.2376|0|WARN|Microsoft.AspNetCore.Identity.UserManager|Invalid password for user 3c3ddebd-57ae-4f6f-aed5-43f11a6a77fb. 
+2021-07-03 18:17:24.1507|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 18:17:59.3493|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-07-03 18:17:59.3974|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 18:18:02.8800|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-03 18:18:07.7658|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A ticket was edited and updated 
+2021-07-03 18:18:07.7899|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 18:18:43.9121|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-07-03 18:18:43.9420|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 18:19:27.9479|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-07-03 18:19:27.9877|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 18:19:38.1116|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-03 18:19:41.6846|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A ticket was edited and updated 
+2021-07-03 18:19:41.7058|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 18:19:48.4364|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 18:20:03.7203|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 18:20:37.2022|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-07-03 18:20:37.2155|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 18:20:39.5739|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-03 18:20:41.2267|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|DeleteProduct was called 
+2021-07-03 18:20:41.2361|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-03 18:20:41.2679|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 18:20:46.6882|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 18:20:48.8817|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-03 18:20:54.6666|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-03 18:20:54.6904|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-03 18:20:54.7091|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 18:22:07.8943|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-03 18:22:21.1870|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-03 18:22:21.1870|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-03 18:22:21.1996|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-03 18:23:31.0095|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 18:30:18.1779|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 18:30:19.3239|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-03 18:30:21.2049|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-03 18:30:21.2420|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-03 18:30:21.2816|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 18:30:22.4056|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-03 18:30:23.4161|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-03 18:30:23.4161|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-03 18:30:23.4878|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 18:45:59.3759|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-03 18:46:05.0087|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-03 18:46:05.0087|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-03 18:46:05.0087|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-03 19:01:25.4277|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-03 19:01:31.8820|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-03 19:01:31.8851|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-03 19:01:31.8851|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-03 19:01:44.2665|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 

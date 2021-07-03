@@ -1,0 +1,14 @@
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\bin\Debug\netcoreapp3.1\OnlineCinemaApp.Services.deps.json
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\bin\Debug\netcoreapp3.1\OnlineCinemaApp.Services.dll
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\bin\Debug\netcoreapp3.1\OnlineCinemaApp.Services.pdb
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\obj\Debug\netcoreapp3.1\OnlineCinemaApp.Services.csprojAssemblyReference.cache
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\obj\Debug\netcoreapp3.1\OnlineCinemaApp.Services.AssemblyInfoInputs.cache
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\obj\Debug\netcoreapp3.1\OnlineCinemaApp.Services.AssemblyInfo.cs
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\obj\Debug\netcoreapp3.1\OnlineCinemaApp.Services.csproj.CoreCompileInputs.cache
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\obj\Debug\netcoreapp3.1\OnlineCinemaApp.Services.dll
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\obj\Debug\netcoreapp3.1\OnlineCinemaApp.Services.pdb
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\bin\Debug\netcoreapp3.1\OnlineCinemaApp.Domain.dll
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\bin\Debug\netcoreapp3.1\OnlineCinemaApp.Repository.dll
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\bin\Debug\netcoreapp3.1\OnlineCinemaApp.Domain.pdb
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\bin\Debug\netcoreapp3.1\OnlineCinemaApp.Repository.pdb
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\obj\Debug\netcoreapp3.1\OnlineCinemaApp.Services.csproj.CopyComplete

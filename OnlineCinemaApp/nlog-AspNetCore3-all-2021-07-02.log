@@ -1,0 +1,728 @@
+2021-07-02 00:07:41.9706|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 00:07:46.4872|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 00:07:46.4872|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 00:07:46.4872|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 00:07:49.4037|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:12:57.7594|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 00:13:00.1385|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 00:13:00.1414|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 00:13:00.1414|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 00:13:03.5583|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:15:37.6545|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 00:15:40.3633|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 00:15:40.3633|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 00:15:40.3633|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 00:15:44.9013|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:15:51.9274|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:16:42.4771|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 00:16:45.0995|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 00:16:45.0995|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 00:16:45.0995|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 00:16:50.4357|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:17:01.8537|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:17:22.3690|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:19:26.3203|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 00:19:28.9608|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 00:19:28.9608|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 00:19:28.9708|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 00:19:32.1229|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:19:36.9664|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:20:07.5181|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 00:20:10.2509|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 00:20:10.2509|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 00:20:10.2509|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 00:20:13.2889|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:20:15.7946|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:20:29.9979|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:23:19.6675|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 00:23:22.2571|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 00:23:22.2571|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 00:23:22.2674|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 00:23:26.2275|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:23:31.2276|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:24:35.9956|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 00:24:38.7038|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 00:24:38.7038|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 00:24:38.7038|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 00:24:42.9047|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:25:40.2935|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:26:49.8496|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-07-02 00:26:50.0620|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:27:06.8788|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:27:11.2358|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:27:22.2901|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:27:42.4326|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:27:43.8586|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 00:27:44.8764|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 00:27:44.9343|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 00:27:44.9640|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:27:50.6645|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:27:51.9044|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 00:27:54.9795|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 00:27:54.9876|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 00:27:55.0146|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 00:28:58.3870|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 09:45:53.4113|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 09:45:57.5269|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 09:45:57.5409|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 09:45:57.5409|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 10:21:07.3938|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 10:21:09.6350|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 10:21:09.6350|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 10:21:09.6499|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 10:22:17.6307|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.NullReferenceException: Object reference not set to an instance of an object.
+   at AspNetCore.Views_Shared__Layout.<ExecuteAsync>b__29_1() in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\Views\Shared\_Layout.cshtml:line 36
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCore.Views_Shared__Layout.ExecuteAsync()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-07-02 10:23:37.1539|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 10:23:39.5729|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 10:23:39.5851|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 10:23:39.5851|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 10:29:43.3095|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 10:29:45.7553|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 10:29:45.7553|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 10:29:45.7553|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 10:31:18.1893|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 10:31:20.4486|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 10:31:20.4486|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 10:31:20.4578|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 10:35:50.4872|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 10:35:53.0360|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 10:35:53.0360|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 10:35:53.0360|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 10:35:58.8941|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'OnlineCinemaApp.Domain.Identity.UserLoginDto', but this ViewDataDictionary instance requires a model item of type 'OnlineCinemaApp.Domain.Identity.ApplicationUser'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary..ctor(ViewDataDictionary source, Object model, Type declaredModelType)
+   at lambda_method(Closure , ViewDataDictionary )
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.CreateViewDataDictionary(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPageActivator.Activate(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeResultAsync>g__Logged|21_0(ResourceInvoker invoker, IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-07-02 10:36:32.2032|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 10:36:34.5074|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 10:36:34.5074|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 10:36:34.5074|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 10:36:36.5475|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'OnlineCinemaApp.Domain.Identity.UserLoginDto', but this ViewDataDictionary instance requires a model item of type 'OnlineCinemaApp.Domain.Identity.ApplicationUser'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary..ctor(ViewDataDictionary source, Object model, Type declaredModelType)
+   at lambda_method(Closure , ViewDataDictionary )
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.CreateViewDataDictionary(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPageActivator.Activate(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeResultAsync>g__Logged|21_0(ResourceInvoker invoker, IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-07-02 10:37:12.9981|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 10:37:15.3602|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 10:37:15.3913|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 10:37:15.4013|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 10:38:06.5098|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 10:38:09.1066|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 10:38:09.1066|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 10:38:09.1168|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 10:38:30.2081|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'OnlineCinemaApp.Domain.Identity.UserLoginDto', but this ViewDataDictionary instance requires a model item of type 'OnlineCinemaApp.Domain.Identity.ApplicationUser'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary..ctor(ViewDataDictionary source, Object model, Type declaredModelType)
+   at lambda_method(Closure , ViewDataDictionary )
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.CreateViewDataDictionary(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPageActivator.Activate(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeResultAsync>g__Logged|21_0(ResourceInvoker invoker, IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-07-02 10:40:31.2397|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 10:40:33.6821|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 10:40:33.6821|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 10:40:33.6920|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 10:50:02.2855|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 10:50:04.5266|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 10:50:04.5266|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 10:50:04.5358|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 10:50:06.3238|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'OnlineCinemaApp.Domain.Identity.UserLoginDto', but this ViewDataDictionary instance requires a model item of type 'OnlineCinemaApp.Domain.Identity.User'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary..ctor(ViewDataDictionary source, Object model, Type declaredModelType)
+   at lambda_method(Closure , ViewDataDictionary )
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.CreateViewDataDictionary(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPageActivator.Activate(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeResultAsync>g__Logged|21_0(ResourceInvoker invoker, IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-07-02 10:51:25.4893|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 10:51:27.9538|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 10:51:27.9567|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 10:51:27.9567|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 10:52:50.9554|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 10:52:53.1244|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 10:52:53.1273|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 10:52:53.1273|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 10:53:52.9987|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 10:53:55.7071|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 10:53:55.7071|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 10:53:55.7071|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 10:54:31.5632|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 10:54:34.2447|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 10:54:35.4847|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 10:54:35.6642|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 10:54:35.7019|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 10:57:20.1237|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 10:57:23.1603|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 10:57:23.1603|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 10:57:23.1603|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 10:57:25.9316|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 10:57:32.2775|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 10:57:33.6134|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 10:57:34.9998|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 10:57:35.2025|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 10:57:35.2266|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 10:57:49.7064|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 10:59:34.0751|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 10:59:45.3910|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 11:09:41.3520|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 11:09:44.2249|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 11:09:44.2249|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 11:09:44.2249|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 11:14:14.2392|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 11:14:17.2295|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 11:14:17.2295|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 11:14:17.2409|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 11:14:22.1611|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 11:18:18.8089|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 11:18:21.8702|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 11:18:21.8702|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 11:18:21.8808|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 11:19:54.5327|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 11:19:57.0307|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 11:19:57.0307|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 11:19:57.0410|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 11:38:10.6868|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 11:38:12.9454|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 11:38:12.9454|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 11:38:12.9555|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 11:51:13.6375|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 11:51:16.2197|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 11:51:16.2249|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 11:51:16.2249|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 11:51:45.9130|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 11:51:48.7295|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 11:51:51.4999|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 11:51:51.6680|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 11:51:51.7054|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 11:51:52.6133|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 11:51:55.1158|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 11:51:55.1158|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 11:51:55.1528|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 11:51:56.1710|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 11:51:59.0965|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 11:51:59.0965|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 11:51:59.1311|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 12:53:14.3674|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 12:54:05.9533|0|ERROR|OnlineCinemaApp.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials p15sm2585578wmq.43 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials p15sm2585578wmq.43 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at OnlineCinemaApp.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\Implementation\EmailService.cs:line 47
+   at OnlineCinemaApp.Services.Implementation.BackgroundEmailSender.DoWork() in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\Implementation\BackgroundEmailSender.cs:line 23
+   at OnlineCinemaApp.Services.ConsumeScopedHostedService.DoWork() in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\ConsumeScopedHostedService.cs:line 35
+   at OnlineCinemaApp.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\ConsumeScopedHostedService.cs:line 22
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at OnlineCinemaApp.Program.Main(String[] args) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\Program.cs:line 21
+2021-07-02 12:57:58.9011|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 12:58:06.3694|0|ERROR|OnlineCinemaApp.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials w4sm2783135wrp.15 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials w4sm2783135wrp.15 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at OnlineCinemaApp.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\Implementation\EmailService.cs:line 47
+   at OnlineCinemaApp.Services.Implementation.BackgroundEmailSender.DoWork() in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\Implementation\BackgroundEmailSender.cs:line 23
+   at OnlineCinemaApp.Services.ConsumeScopedHostedService.DoWork() in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\ConsumeScopedHostedService.cs:line 35
+   at OnlineCinemaApp.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\ConsumeScopedHostedService.cs:line 22
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at OnlineCinemaApp.Program.Main(String[] args) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\Program.cs:line 21
+2021-07-02 13:00:29.2959|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 13:00:36.0710|0|ERROR|OnlineCinemaApp.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials k6sm2618758wms.8 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials k6sm2618758wms.8 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at OnlineCinemaApp.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\Implementation\EmailService.cs:line 47
+   at OnlineCinemaApp.Services.Implementation.BackgroundEmailSender.DoWork() in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\Implementation\BackgroundEmailSender.cs:line 23
+   at OnlineCinemaApp.Services.ConsumeScopedHostedService.DoWork() in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\ConsumeScopedHostedService.cs:line 35
+   at OnlineCinemaApp.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\ConsumeScopedHostedService.cs:line 22
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at OnlineCinemaApp.Program.Main(String[] args) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\Program.cs:line 21
+2021-07-02 13:04:18.6917|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 13:05:07.1800|0|ERROR|OnlineCinemaApp.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials 25sm2432822wmf.21 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials 25sm2432822wmf.21 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at OnlineCinemaApp.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\Implementation\EmailService.cs:line 47
+   at OnlineCinemaApp.Services.Implementation.BackgroundEmailSender.DoWork() in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\Implementation\BackgroundEmailSender.cs:line 23
+   at OnlineCinemaApp.Services.ConsumeScopedHostedService.DoWork() in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\ConsumeScopedHostedService.cs:line 35
+   at OnlineCinemaApp.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\ConsumeScopedHostedService.cs:line 22
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at OnlineCinemaApp.Program.Main(String[] args) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\Program.cs:line 21
+2021-07-02 13:08:14.0959|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 13:09:17.6049|0|ERROR|OnlineCinemaApp.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials f9sm2942237wrm.48 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials f9sm2942237wrm.48 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at OnlineCinemaApp.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\Implementation\EmailService.cs:line 47
+   at OnlineCinemaApp.Services.Implementation.BackgroundEmailSender.DoWork() in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\Implementation\BackgroundEmailSender.cs:line 23
+   at OnlineCinemaApp.Services.ConsumeScopedHostedService.DoWork() in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\ConsumeScopedHostedService.cs:line 35
+   at OnlineCinemaApp.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\ConsumeScopedHostedService.cs:line 22
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at OnlineCinemaApp.Program.Main(String[] args) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\Program.cs:line 21
+2021-07-02 13:10:15.9176|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 13:11:21.2948|0|ERROR|OnlineCinemaApp.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials z5sm2860078wrt.11 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials z5sm2860078wrt.11 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at OnlineCinemaApp.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\Implementation\EmailService.cs:line 47
+   at OnlineCinemaApp.Services.Implementation.BackgroundEmailSender.DoWork() in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\Implementation\BackgroundEmailSender.cs:line 23
+   at OnlineCinemaApp.Services.ConsumeScopedHostedService.DoWork() in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\ConsumeScopedHostedService.cs:line 35
+   at OnlineCinemaApp.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\ConsumeScopedHostedService.cs:line 22
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at OnlineCinemaApp.Program.Main(String[] args) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\Program.cs:line 21
+2021-07-02 13:12:45.6175|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 13:12:55.0347|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 13:12:55.0600|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 13:12:55.0810|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 13:13:34.8843|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 13:13:49.1869|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-07-02 13:13:49.2426|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 13:13:50.6614|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 13:13:53.0374|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 13:13:53.0654|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 13:13:53.1040|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 13:15:41.1722|14|WARN|Microsoft.AspNetCore.Identity.UserManager|User e0c6f1ad-eb93-4eb7-8655-82fd3ceb55d1 password validation failed: PasswordRequiresNonAlphanumeric;PasswordRequiresUpper. 
+2021-07-02 13:16:15.8113|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 13:16:17.8053|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 13:16:18.6908|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 13:16:19.5953|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 13:16:19.6362|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 13:16:19.6692|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 13:17:09.1509|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 13:21:01.4969|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 13:21:01.5262|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 13:21:01.5374|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 13:21:03.5948|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 13:21:04.8120|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 13:21:06.2173|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 13:21:06.4136|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 13:21:06.4500|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 13:21:17.0610|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 13:21:28.6102|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 13:21:42.9767|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 13:21:42.9767|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 13:21:42.9874|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 13:34:15.5996|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 13:34:33.0281|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 13:34:33.0407|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 13:34:33.0407|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 15:05:52.4907|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 15:06:01.7383|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 15:06:01.7383|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 15:06:01.7383|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 15:06:29.0984|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 15:07:08.8890|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-07-02 15:07:08.9531|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 15:07:43.7663|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-07-02 15:07:43.8155|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 15:08:17.3623|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-07-02 15:08:17.4027|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 15:08:20.7640|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 15:08:23.1948|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 15:08:23.2207|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 15:08:23.2470|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 15:08:26.1083|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 15:08:28.4656|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 15:08:28.4656|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 15:08:28.5006|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 15:08:29.5544|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 15:08:31.6756|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 15:08:31.6756|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 15:08:31.7090|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 15:08:32.6293|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 15:08:34.6512|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 15:08:34.6512|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 15:08:34.6837|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 15:10:34.0732|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 15:10:42.2333|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 15:10:42.2333|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 15:10:42.2535|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 15:24:01.5797|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 15:24:10.9350|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 15:24:10.9350|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 15:24:10.9522|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 15:24:44.8536|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 15:24:44.9252|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: No service for type 'OnlineCinemaApp.Domain.Identity.ApplicationUser' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.<>c__DisplayClass8_0.<CreateActivateInfo>b__1(ViewContext context)
+   at Microsoft.Extensions.Internal.PropertyActivator`1.Activate(Object instance, TContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPageActivator.Activate(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeResultAsync>g__Logged|21_0(ResourceInvoker invoker, IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-07-02 15:28:30.6500|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 15:28:37.3902|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 15:28:37.3932|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 15:28:37.3932|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 18:31:03.7521|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 18:31:15.2149|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 18:31:15.2311|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 18:31:15.2387|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 18:32:54.2735|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 18:32:57.3401|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 18:32:58.7160|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 18:32:58.9260|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 18:32:59.0037|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 18:37:07.8858|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 18:37:15.1211|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 18:37:15.1211|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 18:37:15.1338|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 18:37:24.9000|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 18:37:25.9977|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 18:37:28.9605|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 18:37:29.1312|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 18:37:29.1769|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 19:12:50.4168|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 19:13:01.2233|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 19:13:01.2233|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 19:13:01.2233|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 19:13:24.9948|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 19:13:26.8743|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 19:13:28.2070|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 19:13:28.4018|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 19:13:28.4329|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 19:14:19.5101|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 19:20:53.0838|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 19:21:00.1312|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 19:21:00.1312|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 19:21:00.1431|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 19:22:11.0842|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 19:22:18.1737|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 19:22:18.1769|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 19:22:18.1769|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 19:32:08.1809|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 19:32:16.2538|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 19:32:16.2538|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 19:32:16.2538|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 19:32:26.4717|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 19:33:04.7075|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-07-02 19:33:04.8887|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 19:33:07.4375|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 19:33:11.4156|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 19:33:11.4529|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 19:33:11.4827|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 19:35:28.1461|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 19:35:35.9918|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 19:35:35.9918|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 19:35:36.0026|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 19:38:04.0874|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 19:38:12.1829|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 19:38:12.1829|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 19:38:12.1935|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 19:38:14.2007|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 19:38:16.0128|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 19:38:25.0331|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 19:38:25.2030|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 19:38:25.2342|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 19:38:26.4469|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 19:38:28.5200|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 19:38:28.5200|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 19:38:28.5668|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 19:38:29.5684|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 19:38:30.7091|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 19:38:30.7091|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 19:38:30.7479|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 19:38:32.4101|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 19:38:33.6408|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 19:38:33.6484|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 19:38:33.6846|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 19:38:35.6577|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 19:38:37.0926|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 19:38:37.0998|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 19:38:37.1495|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 19:39:59.1992|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 19:40:07.4017|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 19:40:07.4017|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 19:40:07.4126|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 19:44:05.9546|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 19:44:13.9575|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 19:44:13.9575|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 19:44:13.9575|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 19:44:43.6363|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 19:44:51.3059|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 19:44:51.3059|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 19:44:51.3211|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 19:58:36.8959|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 19:58:46.2008|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 19:58:46.2008|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 19:58:46.2113|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 19:59:23.4898|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:00:05.7055|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-07-02 20:00:05.7876|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:00:14.5974|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:00:27.8322|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:00:56.3045|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 20:01:01.9334|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A ticket was edited and updated 
+2021-07-02 20:01:01.9699|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:01:06.1308|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:01:07.9929|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 20:01:11.3996|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 20:01:11.4314|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 20:01:11.4653|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:01:13.3325|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 20:01:14.7953|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:01:16.2065|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 20:01:19.2459|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 20:01:19.2543|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 20:01:19.2831|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:01:24.8831|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:01:26.8969|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 20:01:28.0027|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:01:29.2625|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 20:01:31.5698|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 20:01:31.5698|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 20:01:31.6051|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:03:25.6292|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 20:03:35.1965|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 20:03:35.1965|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 20:03:35.2076|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 20:10:08.6263|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 20:10:17.2180|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 20:10:17.2213|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 20:10:17.2213|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 20:10:43.9109|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 20:10:52.8232|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 20:10:52.8232|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 20:10:52.8350|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 20:11:02.0715|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:11:05.8258|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 20:11:08.5628|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 20:11:08.7495|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 20:11:08.7981|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:12:09.8185|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 20:12:18.0968|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 20:12:18.0968|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 20:12:18.0968|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 20:12:30.3778|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:13:00.7204|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 20:13:09.6201|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 20:13:09.6201|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 20:13:09.6303|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 20:14:04.7132|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 20:14:14.5653|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 20:14:14.5826|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 20:14:14.6057|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 20:14:54.6991|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:14:55.7077|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 20:14:57.3008|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 20:14:57.3375|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 20:14:57.3794|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:15:27.5060|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 20:15:37.1335|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 20:15:37.1335|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 20:15:37.1439|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 20:16:26.7089|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 20:16:36.5392|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 20:16:36.5392|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 20:16:36.5504|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 20:17:41.8840|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 20:17:51.6269|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 20:17:51.6394|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 20:17:51.6467|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-02 20:17:58.9378|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:18:01.0559|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 20:18:02.2772|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:18:03.6480|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 20:18:05.6689|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-07-02 20:18:05.8464|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-07-02 20:18:05.8742|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-02 20:18:35.8697|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-02 20:18:45.2991|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-02 20:18:45.2991|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-02 20:18:45.2991|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 

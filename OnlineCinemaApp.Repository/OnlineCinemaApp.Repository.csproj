@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20210629220548_Second.cs" />
+    <Compile Remove="Migrations\20210629220548_Second.Designer.cs" />
+    <Compile Remove="Migrations\20210630092732_DateInt.cs" />
+    <Compile Remove="Migrations\20210630092732_DateInt.Designer.cs" />
+    <Compile Remove="Migrations\20210630092841_DateInt.cs" />
+    <Compile Remove="Migrations\20210630092841_DateInt.Designer.cs" />
+    <Compile Remove="Migrations\20210630183938_genre.cs" />
+    <Compile Remove="Migrations\20210630183938_genre.Designer.cs" />
+    <Compile Remove="Migrations\20210701173137_DontFLip.cs" />
+    <Compile Remove="Migrations\20210701173137_DontFLip.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineCinemaApp.Domain\OnlineCinemaApp.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

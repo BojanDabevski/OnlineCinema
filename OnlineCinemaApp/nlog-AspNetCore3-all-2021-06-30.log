@@ -1,0 +1,480 @@
+2021-06-30 12:24:08.2366|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 12:24:10.8593|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 12:24:10.8593|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 12:24:10.8720|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 12:30:34.2302|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 12:30:36.5534|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 12:30:36.5534|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 12:30:36.5631|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 12:30:48.1749|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 12:31:20.4115|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-06-30 12:31:20.4281|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 12:35:32.3272|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 12:35:34.6766|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 12:35:34.6766|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 12:35:34.6884|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 12:35:37.3839|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 12:35:54.0497|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-06-30 12:35:54.2515|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 12:35:58.2832|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|DeleteProduct was called 
+2021-06-30 12:35:58.3433|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 12:36:33.7301|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-06-30 12:36:33.7708|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 12:36:40.6960|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-06-30 12:36:40.7249|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 12:37:56.8940|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 12:37:59.1015|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 12:37:59.1042|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 12:37:59.1042|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 12:38:03.5768|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 12:38:04.9388|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 12:38:08.4874|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A ticket was edited and updated 
+2021-06-30 12:38:08.6191|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 12:38:09.9658|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 12:38:11.6089|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 12:38:12.8247|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 12:38:17.0838|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A ticket was edited and updated 
+2021-06-30 12:38:17.1161|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 15:29:55.0737|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 15:29:57.6799|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 15:29:57.6828|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 15:29:57.6828|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 15:32:02.4907|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 15:32:04.9799|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 15:32:04.9799|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 15:32:04.9799|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 15:32:22.1095|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Unable to resolve service for type 'OnlineCinemaApp.Services.Interface.IOrderService' while attempting to activate 'OnlineCinemaApp.Controllers.Api.AdminController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-30 15:33:02.9943|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 15:33:06.1411|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 15:33:06.1411|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 15:33:06.1502|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 15:34:56.2928|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 15:34:58.8564|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 15:34:58.8564|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 15:34:58.8564|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 15:37:58.2300|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 15:38:00.6396|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 15:38:00.6396|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 15:38:00.6396|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 15:38:12.4301|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-30 15:43:38.6623|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 15:43:41.3689|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 15:43:41.3689|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 15:43:41.3689|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 15:45:32.3407|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 15:45:34.8729|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 15:45:34.8729|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 15:45:34.8729|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 16:05:43.8594|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 16:05:47.8569|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 16:05:47.8569|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 16:05:47.8736|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 18:20:05.0373|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 18:20:08.6995|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 18:20:08.7112|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 18:20:08.7112|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 18:20:14.0210|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 18:37:08.3754|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 18:37:10.4871|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 18:37:10.4871|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 18:37:10.4871|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 18:40:34.5845|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 18:40:36.9464|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 18:40:36.9464|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 18:40:36.9565|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 18:42:29.0420|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 18:42:31.4116|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 18:42:31.4116|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 18:42:31.4116|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 18:57:54.4324|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 18:57:57.1254|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 18:57:57.1254|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 18:57:57.1254|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 19:22:06.3009|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 19:22:08.6500|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 19:22:08.6500|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 19:22:08.6608|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 19:25:11.4346|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 19:25:13.8321|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 19:25:13.8321|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 19:25:13.8321|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 19:26:44.7655|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 19:26:47.0891|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 19:26:47.0891|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 19:26:47.0981|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 19:33:35.5538|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 19:33:38.0828|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 19:33:38.0828|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 19:33:38.0828|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 19:41:53.5797|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 19:41:55.9164|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 19:41:55.9164|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 19:41:55.9268|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 19:49:05.4948|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 19:49:07.9477|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 19:49:07.9477|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 19:49:07.9571|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 19:53:50.5445|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 19:53:52.9908|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 19:53:52.9908|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 19:53:53.0009|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 20:20:16.1508|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 20:20:18.1295|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 20:20:18.1295|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 20:20:18.1295|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 20:20:21.7124|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:20:25.7811|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:20:30.5827|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A ticket was edited and updated 
+2021-06-30 20:20:30.7692|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:20:31.7494|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:20:38.7498|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:21:27.5884|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-06-30 20:21:27.6216|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:21:31.2465|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:21:35.7681|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:21:35.8123|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-06-30 20:21:35.8189|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:26:47.9848|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 20:26:50.2447|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 20:26:50.2447|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 20:26:50.2545|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 20:38:21.7820|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 20:38:24.6935|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 20:38:24.6935|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 20:38:24.7038|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 20:38:27.5764|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:38:28.8990|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (30ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Date], [p].[Genre], [p].[ProductImage], [p].[ProductName], [p].[ProductPrice], [p].[Rating], [p].[Time]
+FROM [Products] AS [p] 
+2021-06-30 20:38:28.9949|10100|ERROR|Microsoft.EntityFrameworkCore.Query|An exception occurred while iterating over the results of a query for context type 'OnlineCinemaApp.Repository.ApplicationDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'Genre'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:a847b77d-ac60-411c-9476-e853c56c47ac
+Error Number:207,State:1,Class:16 Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'Genre'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:a847b77d-ac60-411c-9476-e853c56c47ac
+Error Number:207,State:1,Class:16
+2021-06-30 20:40:50.3071|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 20:40:52.7346|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 20:40:52.7346|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 20:40:52.7346|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 20:41:12.7692|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:41:43.5587|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-06-30 20:41:43.5958|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (4ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (DbType = Int32), @p6='?' (DbType = Int32), @p7='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Products] ([Id], [Date], [Genre], [ProductImage], [ProductName], [ProductPrice], [Rating], [Time])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7); 
+2021-06-30 20:41:43.6357|10000|ERROR|Microsoft.EntityFrameworkCore.Update|An exception occurred in the database while saving changes for context type 'OnlineCinemaApp.Repository.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Genre', table 'ShopCinema.dbo.Products'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:f8d4a587-ad56-4810-a745-5660a23e5176
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess) Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Genre', table 'ShopCinema.dbo.Products'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:f8d4a587-ad56-4810-a745-5660a23e5176
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2021-06-30 20:42:00.4981|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Genre', table 'ShopCinema.dbo.Products'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:f8d4a587-ad56-4810-a745-5660a23e5176
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at OnlineCinemaApp.Repository.Implementation.Repository`1.Insert(T entity) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Repository\Implementation\Repository.cs:line 38
+   at OnlineCinemaApp.Services.Implementation.ProductService.CreateNewProduct(Product p) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp.Services\Implementation\ProductService.cs:line 61
+   at OnlineCinemaApp.Controllers.ProductsController.Create(Product product) in E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\Controllers\ProductsController.cs:line 85
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-30 20:43:43.3803|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 20:43:45.5536|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 20:43:45.5536|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 20:43:45.5536|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 20:44:11.9675|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 20:44:13.9541|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 20:44:13.9541|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 20:44:13.9541|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 20:44:46.6638|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:45:04.3935|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-06-30 20:45:04.4389|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (4ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (DbType = Int32), @p6='?' (DbType = Int32), @p7='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Products] ([Id], [Date], [Genre], [ProductImage], [ProductName], [ProductPrice], [Rating], [Time])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7); 
+2021-06-30 20:45:04.4805|10000|ERROR|Microsoft.EntityFrameworkCore.Update|An exception occurred in the database while saving changes for context type 'OnlineCinemaApp.Repository.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Genre', table 'ShopCinema.dbo.Products'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:5536c53f-5835-4fed-bf4a-36c32a768e16
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess) Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Genre', table 'ShopCinema.dbo.Products'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:5536c53f-5835-4fed-bf4a-36c32a768e16
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2021-06-30 20:49:34.9470|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 20:49:37.3237|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 20:49:37.3237|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 20:49:37.3330|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 20:49:55.8399|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:50:10.5421|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-06-30 20:50:10.5959|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:50:14.9521|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:50:18.4618|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A ticket was edited and updated 
+2021-06-30 20:50:18.5168|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:51:05.9370|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-06-30 20:51:05.9850|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:51:07.7043|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:51:14.8998|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A ticket was edited and updated 
+2021-06-30 20:51:14.9389|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:51:16.3064|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:51:17.6658|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:51:17.6872|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-06-30 20:51:17.7135|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:51:24.0815|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:51:54.9517|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-06-30 20:51:54.9952|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:51:57.4319|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:51:59.4563|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:51:59.4563|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-06-30 20:51:59.5044|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:52:00.7166|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:52:02.9139|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:52:02.9139|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-06-30 20:52:02.9461|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:52:15.5158|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:53:06.3906|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|A new ticket was created 
+2021-06-30 20:53:06.4390|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:53:08.1163|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:53:09.0305|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:53:09.0356|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-06-30 20:53:09.0600|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:53:10.0869|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:53:10.7609|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:53:10.7609|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-06-30 20:53:10.7982|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:53:11.5559|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:53:12.4307|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:53:12.4307|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-06-30 20:53:12.4603|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:53:13.2004|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:53:13.8896|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetDetailForProduct was called 
+2021-06-30 20:53:13.8942|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|Ticket was successfully added into ShoppingCart 
+2021-06-30 20:53:13.9194|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-06-30 20:56:13.8367|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-06-30 20:56:16.3575|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-06-30 20:56:16.3604|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-06-30 20:56:16.3604|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-06-30 20:56:59.0156|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 

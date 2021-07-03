@@ -1,0 +1,148 @@
+﻿@model List<OnlineCinemaApp.Domain.DomainModels.Product>
+@*@using Microsoft.AspNetCore.Identity
+@inject SignInManager<OnlineCinemaApp.Domain.Identity.ApplicationUser> SignInManager
+@inject OnlineCinemaApp.Domain.Identity.ApplicationUser UserManager*@
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="m-3">
+        <a class="btn btn-success" asp-controller="Products" asp-action="Create">Add new Product</a>
+        <a class="btn btn-dark" asp-controller="Products" asp-action="ExportAllTickets">Export Tickets</a>
+    </div>
+    <div class="m-4">
+        <table>
+            <tr>If you want to Export a certain Genre, write the Genre and press Enter  </tr>
+            <tr>
+                <form asp-action="ExportCertainGenre" method="get">
+                    <input type="text" name="valueINeed" />
+
+                </form>
+            </tr>
+        </table>
+
+    </div>
+    @*<div class="m-4">
+        <li class="nav-item">
+            @if (SignInManager.IsSignedIn(User))
+            {
+                @if (UserManager.Role.ToString() == "Administrator")
+                {
+                    <table>
+                        <tr>If you want to Export a certain Genre, write the Genre and press Enter  </tr>
+                         <tr>
+                            <form asp-action="ExportCertainGenre" method="get">
+                                <input type="text" name="valueINeed" />
+
+                            </form>
+                         </tr>
+                    </table>
+                }
+                else { }
+
+            }
+            else
+            {
+
+            }
+        </li>
+        
+
+    </div>*@
+
+    @for (int i = 0; i < Model.Count; i++)
+    {
+        var item = Model[i];
+
+        if (i % 3 == 0)
+        {
+            @:<div class="row">
+            }
+
+
+            <div class="col-md-3 m-4">
+                <div class="card" style="width: 18rem; height: 30rem;">
+                    <img class="card-img-top" src="@item.ProductImage" style="height: 50%" alt="Image for product!" />
+
+                    <div class="card-body">
+                        <h3 class="card-title">@item.ProductName</h3>
+                        <p class="card-text">Genre: @item.Genre</p>
+
+                        <h6>Price: @item.ProductPrice MKD</h6>
+                        <h7>Date: @item.Date.</h7>
+                        <h8>Time: @item.Time </h8>
+
+                    </div>
+
+                    <div class="card-footer">
+
+                        <a asp-controller="Products" asp-action="AddProductToCard" asp-route-id="@item.Id" class="btn btn-info">Add to Card</a>
+                        <a asp-controller="Products" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-secondary">Edit</a>
+                        <a asp-controller="Products" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+            if (i % 3 == 2)
+            {
+            @:</div>
+        }
+    }
+
+</div>
+<div class="m-5">
+    <table class="table">
+
+        <thead class="thead-dark">
+            <tr>
+
+                <th scope="col">Ordered By date in ascending order </th>
+                <th scope="col">Date : @DateTime.Now.ToString("yyyy-MM-dd")</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.OrderBy(item => item.Date))
+            {
+
+                <!--
+                     string date = DateTime().UtcNow.ToString("yyyy-MM-dd");
+
+
+                if (item.Date > date)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Date)
+                        </td>
+
+
+                    </tr>
+                }
+                -->
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Date)
+                    </td>
+
+
+                </tr>
+            }
+        </tbody>
+
+
+    </table>
+
+</div>

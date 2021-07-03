@@ -1,0 +1,8 @@
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\obj\Debug\netcoreapp3.1\OnlineCinemaApp.Web.csprojAssemblyReference.cache
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\obj\Debug\netcoreapp3.1\OnlineCinemaApp.Web.AssemblyInfoInputs.cache
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\obj\Debug\netcoreapp3.1\OnlineCinemaApp.Web.AssemblyInfo.cs
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\obj\Debug\netcoreapp3.1\OnlineCinemaApp.Web.csproj.CoreCompileInputs.cache
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\obj\Debug\netcoreapp3.1\OnlineCinemaApp.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\obj\Debug\netcoreapp3.1\OnlineCinemaApp.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\obj\Debug\netcoreapp3.1\OnlineCinemaApp.Web.RazorAssemblyInfo.cache
+E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp\obj\Debug\netcoreapp3.1\OnlineCinemaApp.Web.RazorAssemblyInfo.cs
