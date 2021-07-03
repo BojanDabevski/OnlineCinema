@@ -172,3 +172,8 @@ Error Number:4060,State:1,Class:11
 2021-07-03 19:01:31.8851|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
 2021-07-03 19:01:31.8851|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
 2021-07-03 19:01:44.2665|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
+2021-07-03 19:27:25.9053|0|DEBUG|OnlineCinemaApp.Program|init main 
+2021-07-03 19:27:32.3537|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-07-03 19:27:32.3537|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-07-03 19:27:32.3537|0|INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Bojan\Materijali za na fakultet\Shesti Semestar\Integrirani sistemi\Domasna\OnlineCinema\OnlineCinemaApp 
+2021-07-03 19:27:45.9980|0|INFO|OnlineCinemaApp.Services.Implementation.ProductService|GetAllProducts was called 
